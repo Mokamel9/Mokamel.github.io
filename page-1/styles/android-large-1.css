@@ -1,0 +1,596 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-large-1-nPH {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0c190d;
+}
+.android-large-1-nPH .auto-group-j4wb-yyZ {
+  box-sizing: border-box;
+  padding: 9.5rem 7.055rem 7rem 7.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  filter: blur(0.2rem);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/nathan-dumlao-c2y16tc3yo8-unsplash-1-bg.png');
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-j4wb-yyZ .logo1-2-zGP {
+  width: 29.5rem;
+  height: 9.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-j4wb-yyZ .life-begins-after-coffee-hAo {
+  margin-bottom: 38.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  color: #ffffff;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-j4wb-yyZ .auto-group-fun7-kes {
+  margin: 0 4.8rem;
+  width: calc(100% - 9.6rem);
+  height: 12.8rem;
+  position: relative;
+  background-color: rgba(255, 253, 253, 0.349999994);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-j4wb-yyZ .auto-group-fun7-kes .skroll-down-to-view-offers-menu-gHd {
+  width: 12.8rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+}
+.android-large-1-nPH .auto-group-j4wb-yyZ .auto-group-fun7-kes .item--9h1 {
+  width: 2.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 9.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq {
+  width: 100%;
+  height: 100.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .f98542658wsk2qkyqcugmbroilqzhtga1ytnwmgh9-1-5DH {
+  width: 36rem;
+  height: 46.918rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .f6172381489eurrbnpbne7eqltksorsy085lpp5u4b-1-PDy {
+  width: 36rem;
+  height: 54rem;
+  position: absolute;
+  left: 0;
+  top: 46.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .rectangle-2-gis {
+  width: 21.8rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 15.9rem;
+  background-color: rgba(12, 25, 13, 0.25);
+  border-radius: 10rem;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .honey-cake-turcish-coffee-oYb {
+  width: 13.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 16.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  color: #ffffff;
+  font-family: Abril Fatface, 'Source Sans Pro';
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .le-6nb {
+  width: 9.4rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 24.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  color: #ff5b00;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .rectangle-3-ybV {
+  width: 21.8rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 66.3rem;
+  background-color: rgba(12, 25, 13, 0.25);
+  border-radius: 10rem;
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .honey-cake-latte-Vpj {
+  width: 10.6rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 67rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  color: #ffffff;
+  font-family: Abril Fatface, 'Source Sans Pro';
+}
+.android-large-1-nPH .auto-group-hocb-ZVq .le-yju {
+  width: 8.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 74.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  color: #ff5b00;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy {
+  width: 100%;
+  height: 166.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq {
+  box-sizing: border-box;
+  padding: 0rem 0rem 3.8rem 1.2rem;
+  width: 36rem;
+  height: 84.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/a4-3-bg.png');
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq .auto-group-f6vd-WdM {
+  margin: 0rem 0rem 2.35rem 0.9rem;
+  box-sizing: border-box;
+  padding: 1.7rem 0rem 0.15rem 0rem;
+  width: 48.9rem;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq .auto-group-f6vd-WdM .logo1-1-p8F {
+  margin-bottom: 3.1rem;
+  width: 31.8rem;
+  height: 9.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq .auto-group-f6vd-WdM .hot-drinks-k1u {
+  margin-left: 9.1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.36;
+  color: #ffffff;
+  font-family: Grand Hotel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq .auto-group-acym-4YP {
+  margin-right: 1.1rem;
+  width: calc(100% - 1.1rem);
+  display: flex;
+  align-items: center;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq .auto-group-acym-4YP .espresso-s-espresso-d-macchato-s-macchato-d-caramel-macchato-cortado-americano-lotus-latte-hot-chocolate-apple-cider-flat-white-cappuccino-mocha-latte-turkish-coffee-s-turkish-coffee-d-flavored-coffee-s-flavored-coffee-d-tea-herbs-tea-flavored-zgw {
+  margin-right: 14.7rem;
+  max-width: 17rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-3-oyq .auto-group-acym-4YP .item-25-35-35-42-60-40-30-60-45-40-40-50-55-50-25-35-35-45-18-28-zaT {
+  max-width: 2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-1-SxF {
+  width: 36rem;
+  height: 84.2rem;
+  position: absolute;
+  left: 0;
+  top: 82.3rem;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/a4-1-bg.png');
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-1-SxF .logo1-1-aYf {
+  width: 31.8rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-1-SxF .cold-drinks-gbh {
+  width: 13.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 13.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.36;
+  color: #ffffff;
+  font-family: Grand Hotel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-1-SxF .line-1-AFy {
+  width: 39.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 9.4989rem;
+  top: 18.45rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-1-SxF .iced-coffee-mocha-frappe-caramel-frappe-lotus-frappe-snickers-frappe-milkshake-vanilla-milkshake-flavors-milkshake-oreo-milkshake-snickers-milkshake-lotus-smoothie-fresh-lemon-mint-ocean-blue-cherry-cola-monte-carlo-green-beach-sgB {
+  width: 17.4rem;
+  height: 47.4rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 25.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.android-large-1-nPH .auto-group-tq3v-Tuy .a4-1-SxF .item-55-60-70-75-75-80-80-80-80-80-40-35-45-35-50-55-GiK {
+  width: 2rem;
+  height: 47.4rem;
+  position: absolute;
+  left: 32.8rem;
+  top: 25.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.android-large-1-nPH .a4-4-sy1 {
+  width: 100%;
+  height: 84.2rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/a4-4-bg.png');
+  flex-shrink: 0;
+}
+.android-large-1-nPH .a4-4-sy1 .logo1-1-be7 {
+  width: 31.8rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .a4-4-sy1 .soft-drinks-JHd {
+  width: 13.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 13.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.36;
+  color: #ffffff;
+  font-family: Grand Hotel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .a4-4-sy1 .line-1-zAT {
+  width: 39.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 9.4989rem;
+  top: 18.45rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-large-1-nPH .a4-4-sy1 .pepsi-mirinda-7-up-schweppes-red-bull-small-water-u2X {
+  width: 11.4rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 34.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.android-large-1-nPH .a4-4-sy1 .item-20-20-20-20-50-10-nMD {
+  width: 1.9rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 34.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.android-large-1-nPH .a4-5-G1V {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 84.2rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/a4-5-bg.png');
+  flex-shrink: 0;
+}
+.android-large-1-nPH .a4-5-G1V .logo1-1-Pbu {
+  width: 31.8rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .a4-5-G1V .cake-iPH {
+  width: 5.4rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 13.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.36;
+  color: #ffffff;
+  font-family: Grand Hotel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .a4-5-G1V .line-1-6Pq {
+  width: 39.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 9.4989rem;
+  top: 18.45rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.android-large-1-nPH .a4-5-G1V .honey-cake-cheesecake-blueberry-lotus-molten-cake-op3 {
+  width: 11.2rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 35.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.android-large-1-nPH .a4-5-G1V .item-31-37-39-42-HjD {
+  width: 1.9rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 35.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj {
+  margin: 0 8.2rem;
+  width: calc(100% - 16.4rem);
+  height: 13.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-y6gf-VKV {
+  margin: 0rem 0.8rem 2.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0 0.4rem;
+  width: 5rem;
+  height: 9.5rem;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-y6gf-VKV .frame-8-CDu {
+  width: 3.2rem;
+  height: 100%;
+  position: relative;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-y6gf-VKV .frame-8-CDu .f-kFR {
+  width: 1.7rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.48;
+  text-decoration-line: underline;
+  font-family: Grenze, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-y6gf-VKV .frame-8-CDu .facebook5968764-2-rpF {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP {
+  margin-right: 1.7rem;
+  width: 8.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP .connect-us-815 {
+  margin-bottom: 0.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ff5b00;
+  font-family: Grenze, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP .auto-group-yxmz-49d {
+  margin: 0 0.7rem;
+  width: calc(100% - 1.4rem);
+  height: 9.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP .auto-group-yxmz-49d .orion-tech-b9Z {
+  width: 6.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #ffffff;
+  font-family: Grenze, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP .auto-group-yxmz-49d .frame-10-HYB {
+  width: 4.5rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP .auto-group-yxmz-49d .frame-10-HYB .instagram2111463-2-oFd {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .auto-group-mpwf-PJP .auto-group-yxmz-49d .frame-10-HYB .m-j9H {
+  width: 4.5rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.48;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Grenze, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .frame-9-8aj {
+  margin-top: 3.7rem;
+  width: 4rem;
+  height: 9.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .frame-9-8aj .w-s2X {
+  width: 4rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.48;
+  text-decoration-line: underline;
+  font-family: Grenze, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-large-1-nPH .auto-group-mdtm-Zgj .frame-9-8aj .whatsapp5968841-2-PmZ {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
